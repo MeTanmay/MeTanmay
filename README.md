@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeTanmay&langs_count=5&theme=tokyonight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeTanmay&show_icons=true&locale=en" alt="MeTanmay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=MeTanmay&count_private=true&theme=tokyonight&showicons=true" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeTanmay&" alt="MeTanmay" /></p>
