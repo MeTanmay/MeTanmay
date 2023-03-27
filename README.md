@@ -28,7 +28,7 @@
 
 ###
 
-<h6 align="left">>> My Skills</h6>
+<h3 align="left">>> My Skills</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<h6 align="left">>> Connect With Me</h6>
+<h3 align="left">>> Connect With Me</h3>
 
 ###
 
