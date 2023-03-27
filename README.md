@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=MeTanmay&count_private=true&theme=tokyonight&showicons=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeTanmay&" alt="MeTanmay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeTanmay&" alt="MeTanmay&theme=tokyonight" /></p>
