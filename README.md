@@ -4,7 +4,7 @@
 
 <h4 align="center">I am a passionate Python Developer from India.</h4>
 ###
-![](https://komarev.com/ghpvc/?username=MeTanmay)
+<p align='left'><img src="https://komarev.com/ghpvc/?username=MeTanmay"></p>
 ###
 
 <p align="left">🔭 I’m currently working on Python development.<br><br>🌱 I’m currently learning Django Development , Web Development.<br><br>👯 I’m looking to collaborate on Websites , Web Apps<br><br>👨‍💻 All of my projects are available here.<br><br>📫 How to reach me **Telegram ID : @BorseTanmay **<br><br>⚡ Fun fact When the going gets tough, the tough gets going. !</p>
