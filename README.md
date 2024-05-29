@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I am Tanmay.</h1>
 
-###
 
 <h4 align="center">I am a passionate Web Developer from India.</h4>
 <img align='right' src="https://tse4.mm.bing.net/th/id/OIG1.JyNqeSjaZukrFUC12bGJ?pid=ImgGn" height='300'>
@@ -11,8 +10,7 @@
 <br>
 
 
-  
-###
+
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MeTanmay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&border_radius=5&order=3" height="225" width="500" alt="stats graph" />
@@ -22,17 +20,17 @@
     <img src="https://streak-stats.demolab.com?user=MeTanmay&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="225" width="500" alt="streak graph" />
   </div>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeTanmay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="225" alt="languages graph"  />
 </div>
 
-###
 
-<h3 align="left">>> My Skills</h3>
 
-###
+<h3 align="left" >> My Skills</h3>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" width="55" alt="html5 logo"  /> 
@@ -53,13 +51,13 @@
 
 </div>
 
-###
+
 
 <br clear="both">
 
-<h3 align="left">>> Connect With Me</h3>
+<h3 align="left" >> Connect With Me</h3>
 
-###
+
 
 <br clear="both">
 
@@ -78,4 +76,4 @@
   </a>
 </div>
 
-###
+
