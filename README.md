@@ -6,10 +6,13 @@
 
 <p align='left'><img src="https://komarev.com/ghpvc/?username=MeTanmay"></p>
 
-
+<div>
 <p align="left">🔭 I’m currently working on Fullstack Web development.<br><br>🌱 I’m currently working on my Web Development Projects.<br><br>👯 I’m looking to collaborate on Websites , Web Apps<br><br>👨‍💻 All of my projects are available here.<br><br>📫 How to reach me **Telegram ID : @BorseTanmay **<br><br>⚡ Fun fact:  When the going gets tough, the tough gets going. !</p>
 
-<img align='right' src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" height='500'>  
+<img align='right' src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" height='350'>
+</div>
+
+  
 ###
 
   <div align="center">
