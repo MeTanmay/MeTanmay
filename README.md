@@ -12,11 +12,11 @@
 ###
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MeTanmay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="200" width="400" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MeTanmay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="225" width="500" alt="stats graph" />
   </div>
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=MeTanmay&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" width="400" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=MeTanmay&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="225" width="500" alt="streak graph" />
   </div>
 
 ###
