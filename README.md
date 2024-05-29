@@ -3,7 +3,7 @@
 ###
 
 <h4 align="center">I am a passionate Web Developer from India.</h4>
-<img align='right' src="file:///Users/tanmayborse/Downloads/Designer.png" height='350'>
+<img align='right' src="https://tse4.mm.bing.net/th/id/OIG1.JyNqeSjaZukrFUC12bGJ?pid=ImgGn" height='300'>
 <p align='left'><img src="https://komarev.com/ghpvc/?username=MeTanmay"></p>
 
 <p align="left">🔭 I’m currently working on Fullstack Web development.<br><br>🌱 I’m currently working on my Web Development Projects.<br><br>👯 I’m looking to collaborate on Websites , Web Apps<br><br>👨‍💻 All of my projects are available here.<br><br>📫 How to reach me **Telegram ID : @BorseTanmay **<br><br>⚡ Fun fact:  When the going gets tough, the tough gets going. !</p>
