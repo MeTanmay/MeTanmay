@@ -11,13 +11,13 @@
 
 ###
 <div style="display:flex;">
-  <div align="left">
+  <div >
   <img src="https://github-readme-stats.vercel.app/api?username=MeTanmay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="right">
+<div >
   <img src="https://streak-stats.demolab.com?user=MeTanmay&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 </div>
