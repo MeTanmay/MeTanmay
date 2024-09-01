@@ -6,11 +6,10 @@
 <img align='right' src="https://tse4.mm.bing.net/th/id/OIG1.JyNqeSjaZukrFUC12bGJ?pid=ImgGn" height='300'>
 <p align='left'><img src="https://komarev.com/ghpvc/?username=MeTanmay"></p>
 
-<h4 align="left">🔭 I’m currently working on Fullstack Web Development.<br><br>🌱 I’m currently working on my Web Development Projects.<br><br>👯 I’m looking to collaborate on Websites and Web Apps.<br><br>👨‍💻 All of my projects are available here.<br><br>📫 How to reach me ** Email : tanmayborse28@gmail.com **<br><br>
+<h4 align="left">🔭 I am currently working on Fullstack Web Development.<br><br>🌱 I’m currently working on my Web Development Projects.<br><br>👯 I’m looking to collaborate on Websites and Web Apps.<br><br>👨‍💻 All of my projects are available here.<br><br>📫 How to reach me ** Email : tanmayborse28@gmail.com **<br><br>
 </h4>
-<br>
-<br>
-
+<br> <br>
+ 
 
 
   <div align="center">
@@ -49,10 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" width="55" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55" width="55" alt="postman logo"  />
   
-
 </div>
-
-
 
 <br clear="both">
 
